@@ -1,0 +1,7 @@
+origin: https//YAYA.github.io/
+Label: :https//YAYA.github.io/
+suite: stable
+version: 1.0
+architectures: iphoneos-arm
+components: main
+description: WelcomeToMyRepo
