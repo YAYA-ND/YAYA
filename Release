@@ -1,5 +1,5 @@
-origin: https//YAYA.github.io/
-Label: :https//YAYA.github.io/
+origin: YAYA-ND
+Label: :YAYA-ND
 suite: stable
 version: 1.0
 architectures: iphoneos-arm
